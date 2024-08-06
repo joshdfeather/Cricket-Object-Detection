@@ -1,8 +1,10 @@
 # Cricket-Object-Detection
 
 * [Introduction](#Introduction)
-* [Tensorflow](#Installation)
-* [Start](#Start)
+* [Tensorflow](#Tensorflow)
+* [Dependencies](#Dependencies)
+* [Cricket](#Cricket)
+* [YOLOv8](#YoloV8_Object_Detection)
 
 ## Introduction
 
@@ -15,3 +17,9 @@ https://www.youtube.com/watch?v=yqkISICHH-U&t=14254s&pp=ygUbdGVuc29yZmxvdyBvYmpl
 ## Tensorflow
 
 Tensorflow Model Creation Steps:
+
+## Dependencies
+
+## Cricket Ball Tracking
+
+## YOLOv8 Object Detection
