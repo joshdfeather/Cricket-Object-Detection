@@ -1,10 +1,10 @@
 # Cricket-Object-Detection
 
-* [Introduction](#Introduction)
-* [Tensorflow](#Tensorflow)
-* [Dependencies](#Dependencies)
-* [Cricket](#Cricket)
-* [YOLOv8](#YoloV8_Object_Detection)
+* [Introduction](#introduction)
+* [Tensorflow](#tensorflow)
+* [Dependencies](#dependencies)
+* [Cricket Ball Tracking](#cricket-ball-tracking)
+* [YOLOv8](#yolov8-object-detection)
 
 ## Introduction
 
