@@ -20,7 +20,7 @@ Tensorflow Model Creation Steps:
 
 - Image Collection
 - Image Annotation (Label Img package)
-- Partioning (Test and Train data sets)
+- Partitioning (Test and Train data sets)
 - Tensorflow Model Zoo selection
 - TF records generation
 - Object Detection
