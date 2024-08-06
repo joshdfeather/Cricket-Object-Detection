@@ -57,3 +57,13 @@ Visualizations of the ball’s path are displayed for umpires, players, and spec
 
 
 ## YOLOv8 Object Detection
+
+In the final part of this project I used the YOLOv8 package by Ultralytics to simplify setup for Object Detection
+
+Below is my file structure, with partitioned datasets; video and static image testing; as well as the main training code
+
+![Alt text](Screenshot%202024-08-06%20at%2016.49.55.png)
+
+The train.py file progressively builds upon the previous models best output whenever called, making decisions based on a specific .yaml file
+
+![Alt text](Screenshot%202024-08-06%20at%2016.50.57.png)
