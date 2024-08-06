@@ -60,6 +60,8 @@ Visualizations of the ball’s path are displayed for umpires, players, and spec
 
 In the final part of this project I used the YOLOv8 package by Ultralytics to simplify setup for Object Detection
 
+My goal was to emulate the ball tracking aspect of Hawkeye, creating a model to track a ball when given a MP4
+
 Below is my file structure, with partitioned datasets; video and static image testing; as well as the main training code
 
 ![Alt text](Screenshot%202024-08-06%20at%2016.49.55.png)
