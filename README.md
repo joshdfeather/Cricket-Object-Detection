@@ -69,3 +69,5 @@ Below is my file structure, with partitioned datasets; video and static image te
 The train.py file progressively builds upon the previous models best output whenever called, making decisions based on a specific .yaml file
 
 ![Alt text](Screenshot%202024-08-06%20at%2016.50.57.png)
+
+The final model weights is shown in final.pt and the models output, running on a test video, is shown in the MP4 attached
