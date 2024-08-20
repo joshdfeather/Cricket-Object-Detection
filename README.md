@@ -6,6 +6,7 @@
 * [Cricket Ball Tracking](#cricket-ball-tracking)
 * [YOLOv8](#yolov8-object-detection)
 
+Below is a very challenging video with many camera angles and zooms in which the model performed suprisingly well. For consistent, slower videos its results were much more consistent with MAP50-95 above 90%
 
 https://github.com/user-attachments/assets/ebd49b40-f3a7-4660-a152-fc7595d98ff2
 
