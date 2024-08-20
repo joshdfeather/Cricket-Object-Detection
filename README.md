@@ -6,6 +6,10 @@
 * [Cricket Ball Tracking](#cricket-ball-tracking)
 * [YOLOv8](#yolov8-object-detection)
 
+
+https://github.com/user-attachments/assets/ebd49b40-f3a7-4660-a152-fc7595d98ff2
+
+
 ## Introduction
 
 With a growing interest in Data Science I chose to explore Object Detection using Python packages.
